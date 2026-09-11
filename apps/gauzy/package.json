@@ -32,7 +32,7 @@
 		"@angular/animations": "^16.2.12",
 		"@angular/cdk": "^16.2.12",
 		"@angular/common": "^16.2.12",
-		"@angular/core": "^16.2.12",
+		"@angular/core": "^20.3.28",
 		"@angular/forms": "^16.2.12",
 		"@angular/language-service": "^16.2.12",
 		"@angular/material": "^16.2.12",
