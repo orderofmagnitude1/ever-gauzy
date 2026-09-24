@@ -35313,9 +35313,9 @@ syntax-error@^1.1.1:
     acorn-node "^1.2.0"
 
 systeminformation@^5.7:
-  version "5.22.6"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.22.6.tgz#af892bc3ff6df8175f2c16cfc3bd06d1130da5dd"
-  integrity sha512-hUTQX+bRgIFbv1T/z251NtwGwNIeSyWURnT2BGnsYu6dQNbkiBl4oAwk50acVfITFq1Zvb8KDNgibQK9uGlUGg==
+  version "5.33.13"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.33.13.tgz#6b5e8d2f3203e1e7bb5e4bb0e897c496179fc60e"
+  integrity sha512-GtyakkchTQKymM1WeAB652zi3rM1q00RKdc+jZe9KGstuc/mWUwAnQGN/RE5gVYvHIR8xYOUIUD9irVKDtA0wA==
 
 table@^6.8.1:
   version "6.8.2"
